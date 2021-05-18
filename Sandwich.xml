@@ -1,19 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed version="1">
-<offers>
+<Ads formatVersion="3" target="Avito.ru">
 <Ad>
-<id>Sendvich1000001</id>
+<Id>Sendvich1000001</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Москва</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 50
 Характеристики:
@@ -51,29 +49,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6602-000001</p>
+<p>Артикул: 8957-000001</p>
 ]]>
-</description>
-<price>1250</price>
-<images>
-<image url="https://i.ibb.co/L0TMz3p/1.jpg"/>
-<image url="https://i.ibb.co/JRCsT9x/er-61.jpg"/>
-<image url="https://i.ibb.co/SRmsNZh/ui-115.jpg"/>
-</images>
+</Description>
+<Price>1250</Price>
+<Images>
+<Image url="https://i.ibb.co/L0TMz3p/1.jpg"/>
+<Image url="https://i.ibb.co/JRCsT9x/er-61.jpg"/>
+<Image url="https://i.ibb.co/SRmsNZh/ui-115.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000002</id>
+<Id>Sendvich1000002</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Московская область, Андреевка</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 50
 Характеристики:
@@ -111,29 +109,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 5456-000002</p>
+<p>Артикул: 5020-000002</p>
 ]]>
-</description>
-<price>1250</price>
-<images>
-<image url="https://i.ibb.co/NW5Q9gx/ui-111.jpg"/>
-<image url="https://i.ibb.co/FWtTxjY/ui-108.jpg"/>
-<image url="https://i.ibb.co/dtb9SKX/maxresdefault.jpg"/>
-</images>
+</Description>
+<Price>1250</Price>
+<Images>
+<Image url="https://i.ibb.co/NW5Q9gx/ui-111.jpg"/>
+<Image url="https://i.ibb.co/FWtTxjY/ui-108.jpg"/>
+<Image url="https://i.ibb.co/dtb9SKX/maxresdefault.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000003</id>
+<Id>Sendvich1000003</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Белгородская область, Белгород</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 60
 Характеристики:
@@ -171,29 +169,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 7532-000003</p>
+<p>Артикул: 9841-000003</p>
 ]]>
-</description>
-<price>1300</price>
-<images>
-<image url="https://i.ibb.co/kmw8X54/manufacture-of-China-prefab-house-use-sandwich.jpg"/>
-<image url="https://i.ibb.co/NWR0DxJ/ui-107.jpg"/>
-<image url="https://i.ibb.co/1dsm8BL/ui-104.jpg"/>
-</images>
+</Description>
+<Price>1300</Price>
+<Images>
+<Image url="https://i.ibb.co/kmw8X54/manufacture-of-China-prefab-house-use-sandwich.jpg"/>
+<Image url="https://i.ibb.co/NWR0DxJ/ui-107.jpg"/>
+<Image url="https://i.ibb.co/1dsm8BL/ui-104.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000004</id>
+<Id>Sendvich1000004</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Владимирская область, Владимир</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 80
 Характеристики:
@@ -231,29 +229,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 9724-000004</p>
+<p>Артикул: 6635-000004</p>
 ]]>
-</description>
-<price>1350</price>
-<images>
-<image url="https://i.ibb.co/ZGYC5rW/ui-94.jpg"/>
-<image url="https://i.ibb.co/ZKpFtTh/ui-88.jpg"/>
-<image url="https://i.ibb.co/2n31cvZ/ui-86.jpg"/>
-</images>
+</Description>
+<Price>1350</Price>
+<Images>
+<Image url="https://i.ibb.co/ZGYC5rW/ui-94.jpg"/>
+<Image url="https://i.ibb.co/ZKpFtTh/ui-88.jpg"/>
+<Image url="https://i.ibb.co/2n31cvZ/ui-86.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000005</id>
+<Id>Sendvich1000005</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Воронежская область, Воронеж</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 60
 Характеристики:
@@ -291,29 +289,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 9792-000005</p>
+<p>Артикул: 7121-000005</p>
 ]]>
-</description>
-<price>1300</price>
-<images>
-<image url="https://i.ibb.co/RBMc0c2/ui-81.jpg"/>
-<image url="https://i.ibb.co/8xk1NZp/ui-80.jpg"/>
-<image url="https://i.ibb.co/PxcQCBZ/ui-77.jpg"/>
-</images>
+</Description>
+<Price>1300</Price>
+<Images>
+<Image url="https://i.ibb.co/RBMc0c2/ui-81.jpg"/>
+<Image url="https://i.ibb.co/8xk1NZp/ui-80.jpg"/>
+<Image url="https://i.ibb.co/PxcQCBZ/ui-77.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000006</id>
+<Id>Sendvich1000006</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Ивановская область, Иваново</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 80
 Характеристики:
@@ -351,29 +349,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 1922-000006</p>
+<p>Артикул: 6776-000006</p>
 ]]>
-</description>
-<price>1350</price>
-<images>
-<image url="https://i.ibb.co/0nCGDrR/f16066284de089b542912a411b5d.jpg"/>
-<image url="https://i.ibb.co/CvW7DyX/ui-67.jpg"/>
-<image url="https://i.ibb.co/cTMLGqh/Dostoinstva-i-nedostatki-sendvich-panelej.jpg"/>
-</images>
+</Description>
+<Price>1350</Price>
+<Images>
+<Image url="https://i.ibb.co/0nCGDrR/f16066284de089b542912a411b5d.jpg"/>
+<Image url="https://i.ibb.co/CvW7DyX/ui-67.jpg"/>
+<Image url="https://i.ibb.co/cTMLGqh/Dostoinstva-i-nedostatki-sendvich-panelej.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000007</id>
+<Id>Sendvich1000007</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Калужская область, Калуга</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 100
 Характеристики:
@@ -411,29 +409,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 8177-000007</p>
+<p>Артикул: 7520-000007</p>
 ]]>
-</description>
-<price>1430</price>
-<images>
-<image url="https://i.ibb.co/hWTFLMK/ui-66.jpg"/>
-<image url="https://i.ibb.co/cxjx7Nw/1571982894280.jpg"/>
-<image url="https://i.ibb.co/C2QwpPy/ui-65.jpg"/>
-</images>
+</Description>
+<Price>1430</Price>
+<Images>
+<Image url="https://i.ibb.co/hWTFLMK/ui-66.jpg"/>
+<Image url="https://i.ibb.co/cxjx7Nw/1571982894280.jpg"/>
+<Image url="https://i.ibb.co/C2QwpPy/ui-65.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000008</id>
+<Id>Sendvich1000008</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Костромская область, Кострома</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 120
 Характеристики:
@@ -471,29 +469,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 8230-000008</p>
+<p>Артикул: 6088-000008</p>
 ]]>
-</description>
-<price>1480</price>
-<images>
-<image url="https://i.ibb.co/9W4Zd15/8.png"/>
-<image url="https://i.ibb.co/xffJr5X/7.png"/>
-<image url="https://i.ibb.co/qpK5WsB/1750300.jpg"/>
-</images>
+</Description>
+<Price>1480</Price>
+<Images>
+<Image url="https://i.ibb.co/9W4Zd15/8.png"/>
+<Image url="https://i.ibb.co/xffJr5X/7.png"/>
+<Image url="https://i.ibb.co/qpK5WsB/1750300.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000009</id>
+<Id>Sendvich1000009</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Курская область, Курск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 150
 Характеристики:
@@ -531,29 +529,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 3968-000009</p>
+<p>Артикул: 8554-000009</p>
 ]]>
-</description>
-<price>1580</price>
-<images>
-<image url="https://i.ibb.co/qpK5WsB/1750300.jpg"/>
-<image url="https://i.ibb.co/FzpST8y/9666.jpg"/>
-<image url="https://i.ibb.co/stcJRbx/7192f8bf39ebff2608977c8796eca251.jpg"/>
-</images>
+</Description>
+<Price>1580</Price>
+<Images>
+<Image url="https://i.ibb.co/qpK5WsB/1750300.jpg"/>
+<Image url="https://i.ibb.co/FzpST8y/9666.jpg"/>
+<Image url="https://i.ibb.co/stcJRbx/7192f8bf39ebff2608977c8796eca251.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000010</id>
+<Id>Sendvich1000010</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Липецкая область, Липецк</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 170
 Характеристики:
@@ -591,29 +589,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 4774-000010</p>
+<p>Артикул: 3937-000010</p>
 ]]>
-</description>
-<price>1720</price>
-<images>
-<image url="https://i.ibb.co/Lr4jHSy/565-original.jpg"/>
-<image url="https://i.ibb.co/hmKPLzP/240-original.jpg"/>
-<image url="https://i.ibb.co/tppwfr8/ui-64.jpg"/>
-</images>
+</Description>
+<Price>1720</Price>
+<Images>
+<Image url="https://i.ibb.co/Lr4jHSy/565-original.jpg"/>
+<Image url="https://i.ibb.co/hmKPLzP/240-original.jpg"/>
+<Image url="https://i.ibb.co/tppwfr8/ui-64.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000011</id>
+<Id>Sendvich1000011</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Орловская область, Орел</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 200
 Характеристики:
@@ -651,29 +649,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6950-000011</p>
+<p>Артикул: 9076-000011</p>
 ]]>
-</description>
-<price>1760</price>
-<images>
-<image url="https://i.ibb.co/HH09y4C/9.jpg"/>
-<image url="https://i.ibb.co/KKjjp4q/5e58a50fd8dae8186-5dc2e28dc65727902-5dc15c783246e7124-9.jpg"/>
-<image url="https://i.ibb.co/SBCJQS8/5c3ed45aa066066e48099113.jpg"/>
-</images>
+</Description>
+<Price>1760</Price>
+<Images>
+<Image url="https://i.ibb.co/HH09y4C/9.jpg"/>
+<Image url="https://i.ibb.co/KKjjp4q/5e58a50fd8dae8186-5dc2e28dc65727902-5dc15c783246e7124-9.jpg"/>
+<Image url="https://i.ibb.co/SBCJQS8/5c3ed45aa066066e48099113.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000012</id>
+<Id>Sendvich1000012</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Псковская область, Псков</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 250
 Характеристики:
@@ -711,29 +709,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 1872-000012</p>
+<p>Артикул: 9064-000012</p>
 ]]>
-</description>
-<price>1980</price>
-<images>
-<image url="https://i.ibb.co/BPfSKVQ/3-MEZXbb-Ua-Bam-Q3t1.jpg"/>
-<image url="https://i.ibb.co/M9BshZH/rock-wool-exterior-wall-sandwich-panel-making.jpg"/>
-<image url="https://i.ibb.co/XkwTSsr/ui-63.jpg"/>
-</images>
+</Description>
+<Price>1980</Price>
+<Images>
+<Image url="https://i.ibb.co/BPfSKVQ/3-MEZXbb-Ua-Bam-Q3t1.jpg"/>
+<Image url="https://i.ibb.co/M9BshZH/rock-wool-exterior-wall-sandwich-panel-making.jpg"/>
+<Image url="https://i.ibb.co/XkwTSsr/ui-63.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000013</id>
+<Id>Sendvich1000013</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Рязанская область, Рязань</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 300
 Характеристики:
@@ -771,29 +769,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6398-000013</p>
+<p>Артикул: 1177-000013</p>
 ]]>
-</description>
-<price>2130</price>
-<images>
-<image url="https://i.ibb.co/R0RYyJJ/ui-56.jpg"/>
-<image url="https://i.ibb.co/JB3rbzQ/fg-16.jpg"/>
-<image url="https://i.ibb.co/c1xc3PC/5d5c25de47ce0-kupit-paneli4.jpg"/>
-</images>
+</Description>
+<Price>2130</Price>
+<Images>
+<Image url="https://i.ibb.co/R0RYyJJ/ui-56.jpg"/>
+<Image url="https://i.ibb.co/JB3rbzQ/fg-16.jpg"/>
+<Image url="https://i.ibb.co/c1xc3PC/5d5c25de47ce0-kupit-paneli4.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000014</id>
+<Id>Sendvich1000014</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Смоленская область, Смоленск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 50
 Характеристики:
@@ -831,29 +829,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 7070-000014</p>
+<p>Артикул: 4268-000014</p>
 ]]>
-</description>
-<price>1250</price>
-<images>
-<image url="https://i.ibb.co/8j1K36V/er-28.jpg"/>
-<image url="https://i.ibb.co/31BDfn0/er-79.jpg"/>
-<image url="https://i.ibb.co/ZzvxXgh/er-77.jpg"/>
-</images>
+</Description>
+<Price>1250</Price>
+<Images>
+<Image url="https://i.ibb.co/8j1K36V/er-28.jpg"/>
+<Image url="https://i.ibb.co/31BDfn0/er-79.jpg"/>
+<Image url="https://i.ibb.co/ZzvxXgh/er-77.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000015</id>
+<Id>Sendvich1000015</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Тамбовская область, Тамбов</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 50
 Характеристики:
@@ -891,29 +889,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 4728-000015</p>
+<p>Артикул: 3537-000015</p>
 ]]>
-</description>
-<price>1250</price>
-<images>
-<image url="https://i.ibb.co/PmzW69d/ui-53.jpg"/>
-<image url="https://i.ibb.co/JRCsT9x/er-61.jpg"/>
-<image url="https://i.ibb.co/FqQv7hz/ui-48.jpg"/>
-</images>
+</Description>
+<Price>1250</Price>
+<Images>
+<Image url="https://i.ibb.co/PmzW69d/ui-53.jpg"/>
+<Image url="https://i.ibb.co/JRCsT9x/er-61.jpg"/>
+<Image url="https://i.ibb.co/FqQv7hz/ui-48.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000016</id>
+<Id>Sendvich1000016</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Тверская область, Тверь</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 60
 Характеристики:
@@ -951,29 +949,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 5946-000016</p>
+<p>Артикул: 2256-000016</p>
 ]]>
-</description>
-<price>1300</price>
-<images>
-<image url="https://i.ibb.co/CwfKHWD/ui-46.jpg"/>
-<image url="https://i.ibb.co/Kjk7H4b/ui-42.jpg"/>
-<image url="https://i.ibb.co/LNRzh0z/ui-39.jpg"/>
-</images>
+</Description>
+<Price>1300</Price>
+<Images>
+<Image url="https://i.ibb.co/CwfKHWD/ui-46.jpg"/>
+<Image url="https://i.ibb.co/Kjk7H4b/ui-42.jpg"/>
+<Image url="https://i.ibb.co/LNRzh0z/ui-39.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000017</id>
+<Id>Sendvich1000017</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Тульская область, Тула</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 60
 Характеристики:
@@ -1011,29 +1009,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6290-000017</p>
+<p>Артикул: 1842-000017</p>
 ]]>
-</description>
-<price>1300</price>
-<images>
-<image url="https://i.ibb.co/TrbNgj7/ui-38.jpg"/>
-<image url="https://i.ibb.co/yFnC8YN/ui-37.jpg"/>
-<image url="https://i.ibb.co/bWNDXbB/ui-36.jpg"/>
-</images>
+</Description>
+<Price>1300</Price>
+<Images>
+<Image url="https://i.ibb.co/TrbNgj7/ui-38.jpg"/>
+<Image url="https://i.ibb.co/yFnC8YN/ui-37.jpg"/>
+<Image url="https://i.ibb.co/bWNDXbB/ui-36.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000018</id>
+<Id>Sendvich1000018</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Самарская область, Самара</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 80
 Характеристики:
@@ -1071,29 +1069,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 9463-000018</p>
+<p>Артикул: 4311-000018</p>
 ]]>
-</description>
-<price>1350</price>
-<images>
-<image url="https://i.ibb.co/8j1K36V/er-28.jpg"/>
-<image url="https://i.ibb.co/8jKvbTM/er-27.jpg"/>
-<image url="https://i.ibb.co/sW0jMSh/er-19.jpg"/>
-</images>
+</Description>
+<Price>1350</Price>
+<Images>
+<Image url="https://i.ibb.co/8j1K36V/er-28.jpg"/>
+<Image url="https://i.ibb.co/8jKvbTM/er-27.jpg"/>
+<Image url="https://i.ibb.co/sW0jMSh/er-19.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000019</id>
+<Id>Sendvich1000019</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Татарстан, Казань</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 100
 Характеристики:
@@ -1131,29 +1129,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 3453-000019</p>
+<p>Артикул: 6964-000019</p>
 ]]>
-</description>
-<price>1430</price>
-<images>
-<image url="https://i.ibb.co/pJwGYbS/ui-35.jpg"/>
-<image url="https://i.ibb.co/qxnyZTG/er-14.jpg"/>
-<image url="https://i.ibb.co/NmxGpBM/er-12.jpg"/>
-</images>
+</Description>
+<Price>1430</Price>
+<Images>
+<Image url="https://i.ibb.co/pJwGYbS/ui-35.jpg"/>
+<Image url="https://i.ibb.co/qxnyZTG/er-14.jpg"/>
+<Image url="https://i.ibb.co/NmxGpBM/er-12.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000020</id>
+<Id>Sendvich1000020</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Ульяновская область, Ульяновск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 120
 Характеристики:
@@ -1191,29 +1189,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 8644-000020</p>
+<p>Артикул: 3016-000020</p>
 ]]>
-</description>
-<price>1480</price>
-<images>
-<image url="https://i.ibb.co/k10ghZ7/er-11.jpg"/>
-<image url="https://i.ibb.co/hc2WbhN/er-4.jpg"/>
-<image url="https://i.ibb.co/WkFncn1/ui-32.jpg"/>
-</images>
+</Description>
+<Price>1480</Price>
+<Images>
+<Image url="https://i.ibb.co/k10ghZ7/er-11.jpg"/>
+<Image url="https://i.ibb.co/hc2WbhN/er-4.jpg"/>
+<Image url="https://i.ibb.co/WkFncn1/ui-32.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000021</id>
+<Id>Sendvich1000021</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Ульяновская область, Ульяновск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 150
 Характеристики:
@@ -1251,29 +1249,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 8071-000021</p>
+<p>Артикул: 7879-000021</p>
 ]]>
-</description>
-<price>1580</price>
-<images>
-<image url="https://i.ibb.co/P4b8JRq/ui-29.jpg"/>
-<image url="https://i.ibb.co/YWxVrH5/er-1.jpg"/>
-<image url="https://i.ibb.co/m9xXjNP/ui-27.jpg"/>
-</images>
+</Description>
+<Price>1580</Price>
+<Images>
+<Image url="https://i.ibb.co/P4b8JRq/ui-29.jpg"/>
+<Image url="https://i.ibb.co/YWxVrH5/er-1.jpg"/>
+<Image url="https://i.ibb.co/m9xXjNP/ui-27.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000022</id>
+<Id>Sendvich1000022</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Башкортостан, Уфа</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 250
 Характеристики:
@@ -1311,29 +1309,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 3707-000022</p>
+<p>Артикул: 8439-000022</p>
 ]]>
-</description>
-<price>1980</price>
-<images>
-<image url="https://i.ibb.co/SBCJQS8/5c3ed45aa066066e48099113.jpg"/>
-<image url="https://i.ibb.co/jfRXFg3/ui-16.jpg"/>
-<image url="https://i.ibb.co/vdczkYh/ui-14.jpg"/>
-</images>
+</Description>
+<Price>1980</Price>
+<Images>
+<Image url="https://i.ibb.co/SBCJQS8/5c3ed45aa066066e48099113.jpg"/>
+<Image url="https://i.ibb.co/jfRXFg3/ui-16.jpg"/>
+<Image url="https://i.ibb.co/vdczkYh/ui-14.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000023</id>
+<Id>Sendvich1000023</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Оренгбургская область, Оренбург</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 300
 Характеристики:
@@ -1371,29 +1369,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 9921-000023</p>
+<p>Артикул: 1456-000023</p>
 ]]>
-</description>
-<price>2130</price>
-<images>
-<image url="https://i.ibb.co/4J6xn0L/ui-13.jpg"/>
-<image url="https://i.ibb.co/xLBdfG3/ui-6.jpg"/>
-<image url="https://i.ibb.co/C84VCjs/zidni-paneli-003.jpg"/>
-</images>
+</Description>
+<Price>2130</Price>
+<Images>
+<Image url="https://i.ibb.co/4J6xn0L/ui-13.jpg"/>
+<Image url="https://i.ibb.co/xLBdfG3/ui-6.jpg"/>
+<Image url="https://i.ibb.co/C84VCjs/zidni-paneli-003.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000024</id>
+<Id>Sendvich1000024</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Саратовская область, Саратов</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 50
 Характеристики:
@@ -1431,29 +1429,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6940-000024</p>
+<p>Артикул: 3469-000024</p>
 ]]>
-</description>
-<price>1370</price>
-<images>
-<image url="https://i.ibb.co/ScH85Cr/HTB1l0-IHXnjx-K1-Rjy0-Fnq6y-Ba-FXa-S.jpg"/>
-<image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
-<image url="https://i.ibb.co/7vt6nZR/Composite-Fire-Proof-Easy-Installation-Rock-Wool.jpg"/>
-</images>
+</Description>
+<Price>1370</Price>
+<Images>
+<Image url="https://i.ibb.co/ScH85Cr/HTB1l0-IHXnjx-K1-Rjy0-Fnq6y-Ba-FXa-S.jpg"/>
+<Image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
+<Image url="https://i.ibb.co/7vt6nZR/Composite-Fire-Proof-Easy-Installation-Rock-Wool.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000025</id>
+<Id>Sendvich1000025</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Мордовия, Саранск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 60
 Характеристики:
@@ -1491,29 +1489,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6580-000025</p>
+<p>Артикул: 6793-000025</p>
 ]]>
-</description>
-<price>1430</price>
-<images>
-<image url="https://i.ibb.co/WcpnnmL/1-3.jpg"/>
-<image url="https://i.ibb.co/Bw7srQt/fg-100.jpg"/>
-<image url="https://i.ibb.co/fYdDhYG/fg-96.jpg"/>
-</images>
+</Description>
+<Price>1430</Price>
+<Images>
+<Image url="https://i.ibb.co/WcpnnmL/1-3.jpg"/>
+<Image url="https://i.ibb.co/Bw7srQt/fg-100.jpg"/>
+<Image url="https://i.ibb.co/fYdDhYG/fg-96.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000026</id>
+<Id>Sendvich1000026</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Чувашия, Чебоксары</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 80
 Характеристики:
@@ -1551,29 +1549,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6614-000026</p>
+<p>Артикул: 4614-000026</p>
 ]]>
-</description>
-<price>1495</price>
-<images>
-<image url="https://i.ibb.co/HHPhxCR/fg-92.jpg"/>
-<image url="https://i.ibb.co/0j8Jn0L/H57b679a105564d13b62db595309e9d3a-Q.jpg"/>
-<image url="https://i.ibb.co/KmG7JFK/fg-79.jpg"/>
-</images>
+</Description>
+<Price>1495</Price>
+<Images>
+<Image url="https://i.ibb.co/HHPhxCR/fg-92.jpg"/>
+<Image url="https://i.ibb.co/0j8Jn0L/H57b679a105564d13b62db595309e9d3a-Q.jpg"/>
+<Image url="https://i.ibb.co/KmG7JFK/fg-79.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000027</id>
+<Id>Sendvich1000027</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Нижегородская область, Нижний новгород</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 100
 Характеристики:
@@ -1611,29 +1609,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 1264-000027</p>
+<p>Артикул: 9217-000027</p>
 ]]>
-</description>
-<price>1580</price>
-<images>
-<image url="https://i.ibb.co/GvmScpr/fg-70.jpg"/>
-<image url="https://i.ibb.co/rknxHpH/fg-66.jpg"/>
-<image url="https://i.ibb.co/DwXK0Xb/fg-55.jpg"/>
-</images>
+</Description>
+<Price>1580</Price>
+<Images>
+<Image url="https://i.ibb.co/GvmScpr/fg-70.jpg"/>
+<Image url="https://i.ibb.co/rknxHpH/fg-66.jpg"/>
+<Image url="https://i.ibb.co/DwXK0Xb/fg-55.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000028</id>
+<Id>Sendvich1000028</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Удмуртия, Ижевск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 50
 Характеристики:
@@ -1671,29 +1669,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 1139-000028</p>
+<p>Артикул: 1600-000028</p>
 ]]>
-</description>
-<price>1370</price>
-<images>
-<image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
-<image url="https://i.ibb.co/v4TX573/fg-40.jpg"/>
-<image url="https://i.ibb.co/WcpnnmL/1-3.jpg"/>
-</images>
+</Description>
+<Price>1370</Price>
+<Images>
+<Image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
+<Image url="https://i.ibb.co/v4TX573/fg-40.jpg"/>
+<Image url="https://i.ibb.co/WcpnnmL/1-3.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000029</id>
+<Id>Sendvich1000029</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Кировская область, Киров</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 150
 Характеристики:
@@ -1731,29 +1729,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 3072-000029</p>
+<p>Артикул: 7043-000029</p>
 ]]>
-</description>
-<price>1770</price>
-<images>
-<image url="https://i.ibb.co/LZ6PjvZ/er-78.jpg"/>
-<image url="https://i.ibb.co/GPGLsdB/fg-30.jpg"/>
-<image url="https://i.ibb.co/cX9PNkf/fg-25.jpg"/>
-</images>
+</Description>
+<Price>1770</Price>
+<Images>
+<Image url="https://i.ibb.co/LZ6PjvZ/er-78.jpg"/>
+<Image url="https://i.ibb.co/GPGLsdB/fg-30.jpg"/>
+<Image url="https://i.ibb.co/cX9PNkf/fg-25.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000030</id>
+<Id>Sendvich1000030</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Пензенская область, Пенза</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 170
 Характеристики:
@@ -1791,29 +1789,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 8567-000030</p>
+<p>Артикул: 3024-000030</p>
 ]]>
-</description>
-<price>1940</price>
-<images>
-<image url="https://i.ibb.co/JRCsT9x/er-61.jpg"/>
-<image url="https://i.ibb.co/f2mfRp3/er-32.jpg"/>
-<image url="https://i.ibb.co/JKLZdsq/er-8.jpg"/>
-</images>
+</Description>
+<Price>1940</Price>
+<Images>
+<Image url="https://i.ibb.co/JRCsT9x/er-61.jpg"/>
+<Image url="https://i.ibb.co/f2mfRp3/er-32.jpg"/>
+<Image url="https://i.ibb.co/JKLZdsq/er-8.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000031</id>
+<Id>Sendvich1000031</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Марий Эл, Йошкар-Ола</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 50
 Характеристики:
@@ -1851,29 +1849,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 2774-000031</p>
+<p>Артикул: 1473-000031</p>
 ]]>
-</description>
-<price>1370</price>
-<images>
-<image url="https://i.ibb.co/JKLZdsq/er-8.jpg"/>
-<image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
-<image url="https://i.ibb.co/WcpnnmL/1-3.jpg"/>
-</images>
+</Description>
+<Price>1370</Price>
+<Images>
+<Image url="https://i.ibb.co/JKLZdsq/er-8.jpg"/>
+<Image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
+<Image url="https://i.ibb.co/WcpnnmL/1-3.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000032</id>
+<Id>Sendvich1000032</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Пермский край, Пермь</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-18T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), кровельные, 250
 Характеристики:
@@ -1911,29 +1909,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6981-000032</p>
+<p>Артикул: 9048-000032</p>
 ]]>
-</description>
-<price>2420</price>
-<images>
-<image url="https://i.ibb.co/0j8Jn0L/H57b679a105564d13b62db595309e9d3a-Q.jpg"/>
-<image url="https://i.ibb.co/mqNyF1T/fg-8.jpg"/>
-<image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
-</images>
+</Description>
+<Price>2420</Price>
+<Images>
+<Image url="https://i.ibb.co/0j8Jn0L/H57b679a105564d13b62db595309e9d3a-Q.jpg"/>
+<Image url="https://i.ibb.co/mqNyF1T/fg-8.jpg"/>
+<Image url="https://i.ibb.co/VD2vsdn/fg-55.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000033</id>
+<Id>Sendvich1000033</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Ульяновская область, Ульяновск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-21T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 170
 Характеристики:
@@ -1971,29 +1969,29 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 3817-000033</p>
+<p>Артикул: 7919-000033</p>
 ]]>
-</description>
-<price>1720</price>
-<images>
-<image url="https://i.ibb.co/sW0jMSh/er-19.jpg"/>
-<image url="https://i.ibb.co/KxXPdjP/ui-24.jpg"/>
-<image url="https://i.ibb.co/KKjjp4q/5e58a50fd8dae8186-5dc2e28dc65727902-5dc15c783246e7124-9.jpg"/>
-</images>
+</Description>
+<Price>1720</Price>
+<Images>
+<Image url="https://i.ibb.co/sW0jMSh/er-19.jpg"/>
+<Image url="https://i.ibb.co/KxXPdjP/ui-24.jpg"/>
+<Image url="https://i.ibb.co/KKjjp4q/5e58a50fd8dae8186-5dc2e28dc65727902-5dc15c783246e7124-9.jpg"/>
+</Images>
 </Ad>
 <Ad>
-<id>Sendvich1000034</id>
+<Id>Sendvich1000034</Id>
 <AdType>Товар от производителя</AdType>
 <Address>Россия, Ульяновская область, Ульяновск</Address>
 <Manager>Никита</Manager>
-<phone>8 958 405-58-72</phone>
+<ContactPhone>8 958 405-58-72</ContactPhone>
 <DateBegin>2021-05-22T09:00:00+03:00</DateBegin>
-<condition>Новое</condition>
-<category>Дизайн, изготовление и реставрация товаров</category>
+<Condition>Новое</Condition>
+<Category>Дезайн</Category>
 <GoodsType>Стройматериалы</GoodsType>
 <GoodsSubType>Другое</GoodsSubType>
-<title>Сэндвич-панели</title>
-<description>
+<Title>Сэндвич-панели</Title>
+<Description>
 <![CDATA[
 <p>ПСБ Минеральная вата (минвата), стеновые, 200
 Характеристики:
@@ -2031,14 +2029,14 @@ _______________________</p>
 <p>Цена указана за кв.м, примерная. Точная стоимость рассчитывается.</p>
 <p>Заказать cтеновые сэндвич-панели по низкой цене.</p>
 </p>
-<p>Артикул: 6961-000034</p>
+<p>Артикул: 9853-000034</p>
 ]]>
-</description>
-<price>1760</price>
-<images>
-<image url="https://i.ibb.co/gF0k1k3/ui-23.jpg"/>
-<image url="https://i.ibb.co/Qmz0Wf1/ui-22.jpg"/>
-<image url="https://i.ibb.co/Yf99tWS/ui-17.jpg"/>
-</images>
+</Description>
+<Price>1760</Price>
+<Images>
+<Image url="https://i.ibb.co/gF0k1k3/ui-23.jpg"/>
+<Image url="https://i.ibb.co/Qmz0Wf1/ui-22.jpg"/>
+<Image url="https://i.ibb.co/Yf99tWS/ui-17.jpg"/>
+</Images>
 </Ad>
 </Ads>
